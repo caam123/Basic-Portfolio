@@ -13,13 +13,12 @@ body{
 header{
     height: auto;
     padding:0px;
-    width:100%;
-    position: relative;
+    width:100vw;
+    position:absolute;
     top:0;
     background-color: #fff;
     border-bottom:2px solid #cccccc;
     margin:0 auto;
-    display:block;
 }
 
 div.main-nav{
